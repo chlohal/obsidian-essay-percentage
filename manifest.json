@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-essay-percentage",
+  "name": "Discord Essay Percentage",
+  "version": "0.9.0",
+  "minAppVersion": "0.9.12",
+  "description": "A little Obsidian plugin to update your Discord status with your essay's completion percentage",
+  "author": "Chloe",
+  "authorUrl": "https://clh.sh",
+  "isDesktopOnly": false
+}
